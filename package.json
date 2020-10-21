@@ -1,0 +1,10 @@
+{
+  "name": "c7.6.unit-tests",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+
+  "scripts": {
+    "test": "jest"
+  }
+}
